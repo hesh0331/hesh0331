@@ -1,30 +1,3 @@
-<style>
-  @keyframes glow {
-    0% { text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff; }
-    50% { text-shadow: 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff; }
-    100% { text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff; }
-  }
-
-  .animated-text {
-    font-size: 2.5rem;
-    font-weight: bold;
-    text-align: center;
-    color: #ff00ff;
-    animation: glow 1.5s infinite alternate;
-  }
-
-  .container {
-    text-align: center;
-  }
-
-  .social-icons img {
-    transition: transform 0.3s ease-in-out;
-  }
-
-  .social-icons img:hover {
-    transform: scale(1.2);
-  }
-</style>
 
 <div class="container">
   <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="250px"></p>
