@@ -1,3 +1,6 @@
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width = 250px></p>
+<p align="center" ><img src="https://readme-typing-svg.demolab.com?font=Sans-serif&weight=900&size=32&pause=1000&color=000000&center=true&vCenter=true&width=558&height=49&lines /></p>
+
 <h1 align="center">Hi 👋, I'm Heshani Munasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
