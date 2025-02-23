@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Heshani+Munasinghe;Frontend+Developer;Java+and+Web+Tech+Enthusiast" />
 </p>
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A frontend developer from Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hesh0331&label=Profile%20views&color=0e75b6&style=flat" alt="hesh0331" />
