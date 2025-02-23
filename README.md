@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heshani Munasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lankaper from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hesh0331&label=Profile%20views&color=0e75b6&style=flat" alt="hesh0331" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=hesh0331&label=Profile%20views&color=0e75b6&style=flat" alt="hesh0331" /> </p>
 
 - 🔭 I’m currently working on **I’m currently learning Java and Web Development**
 
