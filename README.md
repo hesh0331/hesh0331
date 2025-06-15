@@ -20,8 +20,8 @@
 
 ## 📞 Connect with me:
 <p align="center">
-  <a href="[https://linkedin.com/in/heshani-munasinghe](https://www.linkedin.com/in/heshani-munasinghe-52b040342/)" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+  <a href="https://linkedin.com/heshu_munasinghe" target="blank">
+    <img src="https://www.linkedin.com/in/heshani-munasinghe-52b040342/" alt="LinkedIn" height="40" width="40"/>
   </a>
   <a href="https://instagram.com/heshu_munasinghe" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
