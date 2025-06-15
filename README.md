@@ -20,13 +20,17 @@
 
 ## 📞 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/heshu_munasinghe" target="blank">
-    <img src="https://www.linkedin.com/in/heshani-munasinghe-52b040342/" alt="LinkedIn" height="40" width="40"/>
+  <a href="https://github.com/heshu-munasinghe" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="40" width="40"/>
   </a>
-  <a href="https://instagram.com/heshu_munasinghe" target="blank">
+  <a href="https://www.linkedin.com/in/heshani-munasinghe-52b040342/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://instagram.com/_hesh_2.0" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
 </p>
+
 
 ---
 
